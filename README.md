@@ -5,10 +5,13 @@ As default `./wttr`, will load http://wttr.in/ in a Webview
 
 If you run it with the location as argument `./wttr <location>`, will load that location
 
+## About the code
 This code is a modified version of the Vala WebKit Sample code in
 
 https://wiki.gnome.org/Projects/Vala/WebKitSample
 
+
+## About wttr.in
 If you need help finding the location code
 
 https://wttr.in/:help
